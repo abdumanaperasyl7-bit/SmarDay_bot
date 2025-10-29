@@ -1,0 +1,14 @@
+How it works
+
+1. User sends /start to the bot.
+
+
+2. Bot asks for age, wake-up time, school hours, sleep time, and hours for study, sports, hobbies, and rest.
+
+
+3. Bot generates a detailed daily schedule by the hour.
+
+
+4. Bot gives tips on productivity and healthy habits.
+
+
